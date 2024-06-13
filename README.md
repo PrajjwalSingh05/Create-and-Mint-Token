@@ -38,5 +38,5 @@ amount: The number of tokens to burn.
 * Interact with the Contract
 # Authors
 Prajjwal Singh
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
